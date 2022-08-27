@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá, eu sou a Micaelle Silva! 👋
 
-<!--
-**MicaelleSilvaa/MicaelleSilvaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Atualmente estou estudando linguagem C
+- 📚 TEC. Informática e Análise e desenvolvimento de sistemas (cursando)
+- 👯 Contate-me no email: micaellesilv4@gmail.com
+- 😄 Pronouns: Ela/dela
 
-Here are some ideas to get you started:
+## Oi, eu sou a Micaelle Silva, estudando e DEVA por curiosidade!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/micaellesilvaa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=micaellesilvaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaellesilvaa&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
