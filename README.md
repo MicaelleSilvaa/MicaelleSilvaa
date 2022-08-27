@@ -5,7 +5,7 @@
 - 👯 Contate-me no email: micaellesilv4@gmail.com
 - 😄 Pronouns: Ela/dela
 
-## Oi, eu sou a Micaelle Silva, estudando e DEVA por curiosidade!
+## Estudante e DEVA por curiosidade!
 
 <div align="center">
   <a href="https://github.com/micaellesilvaa">
