@@ -1,9 +1,8 @@
 ### Olá, eu sou a Micaelle Silva! 👋
 
-- 🌱 Atualmente estou estudando linguagem C, Java, e Arduino.
+- 🌱 Atualmente estou estudando linguagem C, Java e Arduino.
 - 📚 TEC. Informática e Análise e desenvolvimento de sistemas (cursando)
 - 👯 Contate-me no email: micaellesilv4@gmail.com
-- 😄 Pronouns: Ela/dela
 
 ## Estudante e DEVA por curiosidade!
 
