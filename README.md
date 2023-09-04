@@ -1,8 +1,8 @@
 ### Olá, eu sou a Micaelle Silva! 👋
 
-- 🌱 Atualmente estou estudando linguagem C, Java e Python.
 - 📚 TEC. Informática
 - 📚 Análise e desenvolvimento de sistemas (cursando)
+- 🌱 Atualmente estou estudando Java e Python
 - 👯 Contate-me no email: micaellesilv4@gmail.com
 
 ## Estudante e DEVA por curiosidade!
