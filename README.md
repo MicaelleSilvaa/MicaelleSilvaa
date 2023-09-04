@@ -1,11 +1,11 @@
-### Olá, eu sou a Micaelle Silva! 👋
+### Hi, I'm Micaelle Silva! 👋
 
-- 📚 TEC. Informática
-- 📚 Análise e desenvolvimento de sistemas (cursando)
-- 🌱 Atualmente estou estudando Java e Python
-- 👯 Contate-me no email: micaellesilv4@gmail.com
+- 📚 TEC. Informatics
+- 📚 Systems analysis and development (studying)
+- 🌱 I'm currently studying Java and Python
+- 👯 Contact me at: micaellesilv4@gmail.com
 
-## Estudante e DEVA por curiosidade!
+## Student and DEVA out of curiosity!
 
 <div align="center">
   <a href="https://github.com/micaellesilvaa">
