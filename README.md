@@ -2,7 +2,7 @@
 
 - 📚 TEC. Informatics
 - 📚 Systems analysis and development (studying)
-- 🌱 I'm currently studying Java and Python
+- 🌱 I'm currently studying Java and TypeScript
 - 👯 Contact me at: micaellesilv4@gmail.com
 
 ## Student and DEVA out of curiosity!
